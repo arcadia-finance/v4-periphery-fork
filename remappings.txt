@@ -3,6 +3,7 @@ forge-gas-snapshot/=lib/v4-core/lib/forge-gas-snapshot/src/
 ds-test/=lib/v4-core/lib/forge-std/lib/ds-test/src/
 forge-std/=lib/v4-core/lib/forge-std/src/
 solmate/=lib/v4-core/lib/solmate/
+@openzeppelin/contracts/=/lib/accounts-v2/lib/slipstream/lib/openzeppelin-contracts/contracts/
 @openzeppelin/contracts/=/lib/slipstream/lib/openzeppelin-contracts/contracts/
 openzeppelin-contracts/=/
 solmate/=/
