@@ -9,3 +9,7 @@ lib/v3-periphery:@openzeppelin/=/lib/openzeppelin-contracts/
 lib/accounts-v2/lib/slipstream:@openzeppelin/=/lib/accounts-v2/lib/slipstream/lib/openzeppelin-contracts/
 lib/accounts-v2/lib/v3-periphery:@openzeppelin/=/lib/accounts-v2/lib/openzeppelin-contracts/
 lib/accounts-v2/lib/swap-router-contracts:@openzeppelin/=/lib/accounts-v2/lib/openzeppelin-contracts/
+smart-contracts/lib/lending-v2/lib/accounts-v2/lib/slipstream:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/slipstream/lib/openzeppelin-contracts/
+smart-contracts/lib/lending-v2/lib/accounts-v2/lib/v3-periphery:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
+smart-contracts/lib/lending-v2/lib/accounts-v2/lib/swap-router-contracts:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
+smart-contracts/lib/stargate:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
