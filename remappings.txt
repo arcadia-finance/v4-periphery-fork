@@ -1,5 +1,4 @@
 @uniswap/v4-core/=lib/v4-core/
-forge-gas-snapshot/=lib/v4-core/lib/forge-gas-snapshot/src/
 ds-test/=lib/v4-core/lib/forge-std/lib/ds-test/src/
 forge-std/=lib/v4-core/lib/forge-std/src/
 openzeppelin-contracts/=lib/v4-core/lib/openzeppelin-contracts/
@@ -16,3 +15,4 @@ smart-contracts/lib/lending-v2/lib/accounts-v2/lib/slipstream:@openzeppelin/=/sm
 smart-contracts/lib/lending-v2/lib/accounts-v2/lib/v3-periphery:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
 smart-contracts/lib/lending-v2/lib/accounts-v2/lib/swap-router-contracts:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
 smart-contracts/lib/stargate:@openzeppelin/=/smart-contracts/lib/lending-v2/lib/accounts-v2/lib/openzeppelin-contracts/
+
